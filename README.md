@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=villson-junior&color=006bed)
 
-<img src="https://raw.githubusercontent.com/villson-junior/villson-junior/refs/heads/master/images/code-with-coffee.png" alt="code with coffee" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/villson-junior/villson-junior/refs/heads/version-01/images/code-with-coffee.png" alt="code with coffee" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, meu nome é <b>Vilson Junior</b>. Sou um desenvolvedor Java apaixonado por código, café e sempre em busca de novos desafios. 
