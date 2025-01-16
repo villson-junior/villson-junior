@@ -13,7 +13,7 @@
 
 <p align="left">
 
- [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](#)
+ [![Java](https://img.shields.io/badge/-Java-fff?style=flat&logo=openjdk&logoColor=red)](#)
  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -48,6 +48,6 @@
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/villsonjunior)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:villsonjr@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/villsonjr)
-  [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/mr_ulrick)
+  [![Steam](https://img.shields.io/badge/Steam-%23121011.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/mr_ulrick)
   [![GitHub](https://img.shields.io/github/followers/villson-junior?label=follow&style=social)](https://github.com/villson-junior)
 </p>
