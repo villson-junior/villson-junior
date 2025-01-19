@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=villson-junior&color=006bed)
+![](https://komarev.com/ghpvc/?username=villson-junior&color=yellow)
 [![GitHub](https://img.shields.io/github/followers/villson-junior?label=follow&style=social)](https://github.com/villson-junior)
 
 ```java
