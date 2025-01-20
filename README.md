@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=villson-junior&color=006bed)
+![](https://komarev.com/ghpvc/?username=villson-junior&color=blueviolet)
 
 <img src="https://raw.githubusercontent.com/villson-junior/villson-junior/refs/heads/version-01/images/code-with-coffee.png" alt="code with coffee" min-width="400px" max-width="400px" width="400px" align="right">
 
